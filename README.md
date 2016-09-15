@@ -13,6 +13,7 @@ Cruiser is a web scrape script which retrieves information about the prices for 
 - [cruiser_prices.txt](https://github.com/LitenApe/Scripts/blob/master/Cruiser/cruiser_prices.txt)
 
 ## Subway
-Subway is a bash script which parses the xml file retrieved from ruter's api.
+Subway is a bash script which parses the xml file retrieved from ruter's api.  
+Ruter is the local firm that is operating the public transportation in Oslo.
 ### files:
 - [subway.sh](https://github.com/LitenApe/Scripts/blob/master/subway.sh)
