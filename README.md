@@ -6,10 +6,11 @@ Most of the scripts that's here is most likely written in python. Welcome and en
 [Subway](#subway)
 
 ## Cruiser
-Cruiser is a web scrape script which retrieves information about the prices for cruiser boards or longboards from the boardshop.no website. cruiser.html shows how the website looks like under development of the script
+Cruiser is a web scrape script which retrieves information about the prices for cruiser boards or longboards from the boardshop.no website. cruiser.html shows how the website looks like under development of the script, and cruiser_prices.txt shows an example of the output from running the script
 ### files:
-- [cruisers.py](https://github.com/LitenApe/Scripts/blob/master/cruisers.py)
-- [cruiser.html](https://github.com/LitenApe/Scripts/blob/master/cruiser.html)
+- [cruisers.py](https://github.com/LitenApe/Scripts/blob/master/Cruiser/cruisers.py)
+- [cruiser.html](https://github.com/LitenApe/Scripts/blob/master/Cruiser/cruiser.html)
+- [cruiser_prices.txt](https://github.com/LitenApe/Scripts/blob/master/Cruiser/cruiser_prices.txt)
 
 ## Subway
 Subway is a bash script which parses the xml file retrieved from ruter's api.
