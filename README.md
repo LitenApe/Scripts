@@ -15,5 +15,11 @@ Cruiser is a web scrape script which retrieves information about the prices for 
 ## Subway
 Subway is a bash script which parses the xml file retrieved from ruter's api.  
 Ruter is the local firm that is operating the public transportation in Oslo.
-### files:
+### file:
 - [subway.sh](https://github.com/LitenApe/Scripts/blob/master/subway.sh)
+
+## Holiday
+Holiday is a python script that runs once everytime I open my terminal.
+It's purpose and only task is check if there is a holiday today, and if it is, tell me the holiday's name
+### file:
+- [holiday.py](https://github.com/LitenApe/Scripts/blob/master/holiday.py)
