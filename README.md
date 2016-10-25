@@ -24,3 +24,8 @@ Holiday is a python script that runs once everytime I open my terminal.
 It's purpose and only task is check if there is a holiday today, and if it is, tell me the holiday's name
 ### file:
 - [holiday.py](https://github.com/LitenApe/Scripts/blob/master/holiday.py)
+
+## testS
+testS is a really barebone way of testing a program with multiple inputs, it's simple, efficient and made my life alot better when i was working on an assignment where i had to run the program alot of times for testing purposes.
+### file:
+- [testS.sh](https://github.com/LitenApe/Scripts/blob/master/testS.sh)
