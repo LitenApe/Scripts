@@ -5,7 +5,7 @@ Most of the scripts that's here is most likely written in python. Welcome and en
 [Cruiser](#cruiser)  
 [Subway](#subway)  
 [Holiday](#holiday)  
-[testS](#tests)
+[testS](#tests)  
 [compS](#comps)
 
 ## Cruiser
@@ -36,4 +36,4 @@ testS is a really barebone way of testing a program with multiple inputs, it's s
 compS is a really barebone way to run the diff command on multiple files, and outputs if the files are different or not.
 The script was used to work in combination with testS for effectively testing if I have the right output.
 ### file:
--[compS.sh](https://github.com/LitenApe/Scripts/blob/master/compS.sh)
+- [compS.sh](https://github.com/LitenApe/Scripts/blob/master/compS.sh)
