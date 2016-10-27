@@ -6,6 +6,7 @@ Most of the scripts that's here is most likely written in python. Welcome and en
 [Subway](#subway)  
 [Holiday](#holiday)  
 [testS](#tests)
+[compS](#comps)
 
 ## Cruiser
 Cruiser is a web scrape script which retrieves information about the prices for cruiser boards or longboards from the boardshop.no website. cruiser.html shows how the website looks like under development of the script, and cruiser_prices.txt shows an example of the output from running the script
@@ -30,3 +31,9 @@ It's purpose and only task is check if there is a holiday today, and if it is, t
 testS is a really barebone way of testing a program with multiple inputs, it's simple, efficient and made my life alot better when i was working on an assignment where i had to run the program alot of times for testing purposes.
 ### file:
 - [testS.sh](https://github.com/LitenApe/Scripts/blob/master/testS.sh)
+
+## compS
+compS is a really barebone way to run the diff command on multiple files, and outputs if the files are different or not.
+The script was used to work in combination with testS for effectively testing if I have the right output.
+### file:
+-[compS.sh](https://github.com/LitenApe/Scripts/blob/master/compS.sh)
